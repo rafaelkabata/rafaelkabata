@@ -6,7 +6,7 @@
 <hr>
 <div align="center">  
 
-   ## :office: SOBRE
+   ## 🧑‍💼 SOBRE
 
 É Bacharel em Engenharia Agronômica formado pela UNESP concluído em 2020. 
 Atuou nas seguintes áreas: comercial, nutrição de plantas, pós colheita e na área de embalagens para comercialização.
