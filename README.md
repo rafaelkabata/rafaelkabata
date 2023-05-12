@@ -1,12 +1,4 @@
-<div align="center">
-  <a href="https://github.com/rafaelkabata">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelkabata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkabata&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<hr>
-<div align="center">  
-
-   ## 🧑‍💼 ABOUT ME
+ ## 🧑‍💼 ABOUT ME
 
 He is a Bachelor of Agronomic Engineering graduated from UNESP in 2020. He has worked in the following areas: commercial, plant nutrition, post-harvest and packaging for marketing. Currently in the second semester of Multiplatform Software Development at FATEC. 📩Contact: rafaelkabata@icloud.com     
 
@@ -32,3 +24,14 @@ He is a Bachelor of Agronomic Engineering graduated from UNESP in 2020. He has w
   <a href="https://www.linkedin.com/in/rafaelkabata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr>
+
+
+<div align="center">
+  <a href="https://github.com/rafaelkabata">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelkabata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkabata&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<hr>
+<div align="center">  
+
+  
