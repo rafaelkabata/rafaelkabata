@@ -6,9 +6,9 @@
 <hr>
 <div align="center">  
 
-   ## :office: Experiências
+   ## :office: SOBRE
           
-- [x] SOBRE
+- [x] 
 É Bacharel em Engenharia Agronômica formado pela UNESP concluído em 2020. Atuou nas seguintes áreas: comercial, nutrição de plantas, pós colheita e na área de embalagens para comercialização
 
 Atualmente em transição de carreira, cursando o segundo semestre de Desenvolvimento de Software Multiplataforma pela FATEC.
