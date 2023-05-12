@@ -18,14 +18,13 @@ He is a Bachelor of Agronomic Engineering graduated from UNESP in 2020. He has w
   <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
   
 </div>
+
+## ⚡ SOCIAL MEDIA ⚡
   <hr>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/rafaelkabata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr>
-
- ## ⚡ SOCIAL MEDIA ⚡
-
 <div align="center">
   <a href="https://github.com/rafaelkabata">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelkabata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
