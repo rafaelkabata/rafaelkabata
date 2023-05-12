@@ -13,7 +13,16 @@
 </div>
 <div align="center"style="display: inline_block">
 
-  ## :computer: Habilidades
+  ## :computer: SOBRE 
+  É Bacharel em Engenharia Agronômica formado pela UNESP concluído em 2020. Atuou nas seguintes áreas: comercial, nutrição de plantas, pós colheita e na área de embalagens para comercialização
+
+Atualmente em transição de carreira, cursando o segundo semestre de Desenvolvimento de Software Multiplataforma pela FATEC.
+
+Conhecimento sólido em banco de dados e SQL, Java, PHP.
+Pacote Office Avançado.
+
+contato: rafaelkabata@icloud.com
+
 
   <code><img align="center" alt="Sam-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img align="center" alt="Sam-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
