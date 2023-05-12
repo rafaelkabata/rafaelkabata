@@ -19,9 +19,10 @@ He is a Bachelor of Agronomic Engineering graduated from UNESP in 2020. He has w
   
 </div>
 
-## ⚡ SOCIAL MEDIA ⚡
+
   <hr>
 <div align="left">
+ ## ⚡ SOCIAL MEDIA ⚡
   <a href="https://www.linkedin.com/in/rafaelkabata/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo"  />
   </a>
