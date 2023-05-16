@@ -21,6 +21,7 @@ He is a Bachelor of Agronomic Engineering graduated from UNESP in 2020. He has w
 
  ## ⚡ SOCIAL MEDIA ⚡
   <hr>
+   ## ⚡ SOCIAL MEDIA ⚡
 <div align="left">
   
   <a href="https://www.linkedin.com/in/rafaelkabata/" target="_blank">
