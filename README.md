@@ -11,8 +11,7 @@ Como hoppie eu gosto muito de ler, jogar meu Playstation 5, comer em bons lugare
 
 </div>
  
-##
-Sprints
+## Sprints
 
 Sprint 1. Tivemos oportunidade de aprender sobre Linux, criação de aplicação .sh, comandos básicos ao avançado. Vimos também Git, como criar repositório, enviar arquivos para o Github e tudo que o envolva.
 
