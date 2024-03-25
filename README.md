@@ -1,21 +1,48 @@
+ ## 🧑‍💼 ABOUT ME
 
- ##  SOBRE
-
-Olá, meu nome é Rafael Kabata mas todos os meus amigos me chama de Rafa ou Kabata.
-Tenho 31 anos e sou da cidade de Sete Barras, interior do estado de São Paulo. Sete Barras é vizinha da cidade de Registro/SP, a maior cidade da região e onde nasci.
-Atualmente estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Registro, estando no 4º de 6º semestres totais do curso.
-Sou bacharel em Engenharia Agronômica também, exerci a profissão por alguns anos, porém a paixão e vontade em trabalhar com tecnologia falaram mais alto.
-Nesta época também tive bastante contato com estatistica na faculdade com iniciações cientificas e projetos de pesquisa, que me fizeram gostar muito da área de dados.
-Estou muito feliz em estar participando do programa de bolsas da Compass.Uol numa área que venho buscando oportunidades a algum tempo para estar me desenvolvendo e aprendendo, espero dar o meu melhor e aprender com cada um dos profissionais que eu tiver oportunidade de conhecer.      
-Como hoppie eu gosto muito de ler, jogar meu Playstation 5, comer em bons lugares com minha noiva e tomar um vinho.
+He is a Bachelor of Agronomic Engineering graduated from UNESP in 2020. He has worked in the following areas: commercial, plant nutrition, post-harvest and packaging for marketing. Currently in the second semester of Multiplatform Software Development at FATEC. 📩Contact: rafaelkabata@icloud.com     
 
 </div>
- 
-## Sprints
 
-Sprint 1. Tivemos oportunidade de aprender sobre Linux, criação de aplicação .sh, comandos básicos ao avançado. Vimos também Git, como criar repositório, enviar arquivos para o Github e tudo que o envolva.
 
+  ## :computer: SKILLS
+
+
+  <code><img align="center" alt="Sam-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img align="center" alt="Sam-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img align="center" alt="Sam-BOOTSTRAP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
+  <code><img align="center" alt="Sam-JS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+  <code><img align="center" alt="Sam-MYSQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+  <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+  <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
+  
 </div>
+
+ ## ⚡ SOCIAL MEDIA ⚡
+  <hr>
+
+<div align="left">
+  
+  <a href="https://www.linkedin.com/in/rafaelkabata/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="kabatarafael@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="30" alt="gmail logo"  />
+ </a>
+  <a href="https://www.instagram.com/rafaelkabata/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+<hr>
+<div align="center">
+  <a href="https://github.com/rafaelkabata">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelkabata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkabata&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<hr>
+<div align="center">  
 
 
 
