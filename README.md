@@ -1,6 +1,6 @@
  ## 🧑‍💼 ABOUT ME
 
-He is a Bachelor of Agronomic Engineering graduated from UNESP in 2020. He has worked in the following areas: commercial, plant nutrition, post-harvest and packaging for marketing. Currently in the second semester of Multiplatform Software Development at FATEC. 📩Contact: rafaelkabata@icloud.com     
+He is a Bachelor of Agronomic Engineering graduated from UNESP in 2020. He has worked in the following areas: commercial, plant nutrition, post-harvest and packaging for marketing. Currently in the fourth semester of Multiplatform Software Development at FATEC. 📩Contact: rafaelkabata@icloud.com     
 
 </div>
 
